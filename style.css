@@ -1,0 +1,43 @@
+#block-container {
+    width: 300px;
+    heigth: 300px;
+    }
+  .block-row {
+    width: 300px;
+    heigth: 100px;
+  }
+  .block {
+    display: inline;
+    width: 100px;
+    height: 100px;
+    margin-right: -4px;
+    margin-bottom: -4px;
+    display: inline-block;
+    }
+  .red {
+    background-color: red;
+  }
+  .orange {
+    background-color: orange;
+  }
+  .blue {
+    background-color: blue; 
+  }
+  .green {
+    background-color: green;
+  }
+  .violet {
+    background-color: violet;
+  }
+  .yellow {
+    background-color: yellow;
+  }
+  .indigo {
+    background-color: indigo;
+  }
+  .black {
+    background-color: black;
+  }
+  .gray {
+    background-color: gray;
+  }
